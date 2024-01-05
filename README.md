@@ -1,6 +1,18 @@
-# Phishing_detection
-The Internet global connectivity is regarded as a crossroads where users can meet and share information. This is the primary reason phishers choose this method of data exchange as a point of contact to conduct widespread phishing attacks by infecting computers with spyware that directs people to bogus websites . Our Project seeks to create an accurate method based on machine learning. Phishing is a frequent type of cyber assault that includes deceiving consumers into clicking on a harmful link, which then directs them to a bogus website that steals personal data. In order to identify probable phishing URLs, the suggested system would analyze URLs and employ a number of factors, including the domain name, URL length, and the inclusion of suspicious keywords. To learn to differentiate between genuine and phishing URLs, the system will be trained on a collection of known phishing URLs. Metrics like accuracy, precision, and recall will be used to assess the system's success. The development of a trustworthy instrument that can be employed is the project's final objective.
-
-An email, text message, or social media post that pretends to be from a trustworthy source, such a bank or an online store, is sent in a conventional phishing assault. A link in the message sends the visitor to a bogus website that mimics the genuine one. The user is then asked for their login information or other personal details, which the attacker subsequently steals.
-
-Phishing attacks may be challenging to spot since fake websites sometimes resemble authentic ones in appearance. However, there are some traits that many phishing URLs share that can be used to recognise them. These include the use of dubious keywords like "verify", "login", and "password" likewise the substitution of IP addresses for domain names. Phishing URLs may also use subdomains unrelated to the actual site or longer than ordinary domain names.
+The Internet universal connectivity is both a boon and 
+a breeding ground for phishing attacks, manipulating 
+unsuspecting users into interacting with harmful links that 
+redirect them to deceptive websites aiming to pilfer personal 
+information. Phishing, a prevalent cyber threat, often uses cleverly 
+disguised links in emails, texts, or social media that appear 
+authentic, leading individuals to divulge sensitive details. 
+Moreover, the unprecedented rise of artificial intelligence in 
+recent years has also fueled a fresh wave of phishing attacks. These 
+have become even more sophisticated, dangerous and prevalent. 
+Therefore, there is a need to deploy advanced solutions that can 
+automatically detect and prevent such phishing attacks. In this 
+paper, the proposed solution analyzes URLs, considering factors 
+like domain name, URL length, and the presence of suspicious 
+keywords, seeking to differentiate between legitimate and phishing 
+attempts. Further, various machine learning models are deployed 
+to detect and classify phishing attacks to achieve an accuracy of 
+95.2%. 
